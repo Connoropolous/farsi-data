@@ -1,5 +1,18 @@
-English, Fanglish, SimplePresentRoot, Farsi, Pronunciation, Picture
-eat, khordan, mikhor, , , https://www-assets.youneedabudget.com/wp-content/uploads/illo_blog_011719.jpg
-read, khandan, mikhan, , , https://engfluent.com/wp-content/uploads/2019/01/read-english-book-table.png
-write, neveshtan, minevis, , , https://www.bobhooperhouse.org/wp-content/uploads/2018/01/how-to-write-an-obituary.jpg
-put on, pushidan, mipush, , , https://i.pinimg.com/474x/ca/6f/55/ca6f55b8e5a113df3dc6a628b7412d25--la-routine-quotidienne-task-list.jpg
+English, Transitive, Compound, Fanglish, SimplePresentRoot, NegativeSimplePresentRoot, Farsi, Pronunciation, Picture
+to eat, false, false, khordan, mikhor, nemikhor, , , https://www-assets.youneedabudget.com/wp-content/uploads/illo_blog_011719.jpg
+to read, false, false, khandan, mikhan, nemikhan, , , https://engfluent.com/wp-content/uploads/2019/01/read-english-book-table.png
+to write, false, false, neveshtan, minevis, neminevis, , , https://www.bobhooperhouse.org/wp-content/uploads/2018/01/how-to-write-an-obituary.jpg
+to put on, false, false, pushidan, mipush, nemipush, , , https://i.pinimg.com/474x/ca/6f/55/ca6f55b8e5a113df3dc6a628b7412d25--la-routine-quotidienne-task-list.jpg
+to be (present), false, false, hastan, hast, nist, , , https://i.ytimg.com/vi/rC6bmDuHsWE/maxresdefault.jpg
+to cook, false, false, pokhtan, mipaz, nemipaz, , , https://webstockreview.net/images/cooking-clipart-animated-3.gif
+to have, false, false, doshtan, dar, nadar, , , https://i.ytimg.com/vi/X5DzAdGfu-c/hqdefault.jpg
+to see, false, false, didan, mibin, nemibin, , , https://jeffdegraff.com/wp-content/uploads/2013/09/learningtosee.jpg
+to want, false, false, khAstan, mikhah, nemikhah, , , https://clipartstation.com/wp-content/uploads/2018/10/to-want-clipart-7.jpg
+to buy, false, false, kharidan, mikhar, nemikhar, , , https://static.toiimg.com/photo/65119881.cms?imglength=197975
+to sleep, true, false, khAbidan, mikhab, nemikhab, , , https://steemitimages.com/p/o1AJ9qDyyJNSpZWhUgGYc3MngFqoAMgYmHwEDaiM8h6WWjChC?format=match&mode=fit&width=1280
+to go, either, false, raftan, mirav, nemirav, , , https://greatpeopleinside.com/wp-content/uploads/2018/04/why-employees-leave.png
+to come, either, false, Amadan, miAy, nemiAy, , , https://thumbs.dreamstime.com/b/cartoon-illustration-mother-son-boarding-airplane-30187479.jpg
+to wake up, true, true, bidar shodan, bidar mishav, bidar nemishav, , , https://www.elegantthemes.com/blog/wp-content/uploads/2018/11/how-to-wake-up-early.png
+to brush teeth, true, true, mesvAk zadan, mesvAk mizan, mesvAk nemizan, , , https://i.ytimg.com/vi/0QMimPh1-Ug/maxresdefault.jpg
+to shower, true, true, doosh greftan, doosh migir, doosh nemigir, , , https://images.unsplash.com/photo-1565144665800-d751dd2e3b07?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1263&q=80
+to rest, true, true, estrAhat kardan, estrAhat mikon, estrAhat, nemikon, , , https://images.unsplash.com/photo-1519834411415-51492bcd6027?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1624&q=80
