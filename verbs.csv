@@ -20,7 +20,7 @@ to open, true, true, bAz kardan, bAz mikon, bAz nemikon, , , https://d18vdu4p71y
 to watch, true, true, tamAshA kardan, tamAshA mikon, tamAshA nemikon, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20watch.png
 to listen, true, true, goosh kardan, goosh mikon, goosh nemikon, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20listen.png
 to clean, true, true, tamiz kardan, tamiz mikon, tamiz nemikon, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20clean_7.png
-to chop, true, true, khurd kardan, khurd mikon, khurd nemikon, , , https://d18vdu4p71yql0.cloudfront.net/libraries/mulberry/chop%20,%20to.svg
+to chop, true, true, khurd kardan, khurd mikon, khurd nemikon, , , "https://d18vdu4p71yql0.cloudfront.net/libraries/mulberry/chop%20,%20to.svg"
 to bring, true, false, bordan, mibar, nemibar, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20bring.png
 to take out, true, true, biroon bordan, biroon mibar, biroon nemibar, , , 
 to close, true, false, bastan, miband, nemiband, , , https://d18vdu4p71yql0.cloudfront.net/libraries/tawasol/Close%20the%20door%20(M)_1.png
