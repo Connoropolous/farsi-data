@@ -1,28 +1,28 @@
-English, Transitive, Compound, Fanglish, SimplePresentRoot, NegativeSimplePresentRoot, Farsi, Pronunciation, Picture
-to eat, true, false, khordan, mikhor, nemikhor, , , https://www-assets.youneedabudget.com/wp-content/uploads/illo_blog_011719.jpg
-to read, true, false, khandan, mikhan, nemikhan, , , https://engfluent.com/wp-content/uploads/2019/01/read-english-book-table.png
-to write, true, false, neveshtan, minevis, neminevis, , , https://www.bobhooperhouse.org/wp-content/uploads/2018/01/how-to-write-an-obituary.jpg
-to put on, true, false, pushidan, mipush, nemipush, , , https://i.pinimg.com/474x/ca/6f/55/ca6f55b8e5a113df3dc6a628b7412d25--la-routine-quotidienne-task-list.jpg
-to be (present), true, false, hastan, hast, nist, , , https://i.ytimg.com/vi/rC6bmDuHsWE/maxresdefault.jpg
-to cook, true, false, pokhtan, mipaz, nemipaz, , , https://webstockreview.net/images/cooking-clipart-animated-3.gif
-to have, true, false, dAshtan, dar, nadar, , , https://i.ytimg.com/vi/X5DzAdGfu-c/hqdefault.jpg
-to see, true, false, didan, mibin, nemibin, , , https://jeffdegraff.com/wp-content/uploads/2013/09/learningtosee.jpg
-to want, true, false, khAstan, mikhah, nemikhah, , , https://clipartstation.com/wp-content/uploads/2018/10/to-want-clipart-7.jpg
-to buy, true, false, kharidan, mikhar, nemikhar, , , https://static.toiimg.com/photo/65119881.cms?imglength=197975
-to sleep, false, false, khAbidan, mikhab, nemikhab, , , https://steemitimages.com/p/o1AJ9qDyyJNSpZWhUgGYc3MngFqoAMgYmHwEDaiM8h6WWjChC?format=match&mode=fit&width=1280
-to go, either, false, raftan, mirav, nemirav, , , https://greatpeopleinside.com/wp-content/uploads/2018/04/why-employees-leave.png
-to come, either, false, Amadan, miAy, nemiAy, , , https://thumbs.dreamstime.com/b/cartoon-illustration-mother-son-boarding-airplane-30187479.jpg
-to wake up, false, true, bidar shodan, bidar mishav, bidar nemishav, , , https://www.elegantthemes.com/blog/wp-content/uploads/2018/11/how-to-wake-up-early.png
-to brush teeth, true, true, mesvAk zadan, mesvAk mizan, mesvAk nemizan, , , https://i.ytimg.com/vi/0QMimPh1-Ug/maxresdefault.jpg
-to shower, true, true, doosh greftan, doosh migir, doosh nemigir, , , https://images.unsplash.com/photo-1565144665800-d751dd2e3b07?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1263&q=80
-to rest, true, true, estrAhat kardan, estrAhat mikon, estrAhat nemikon, , , https://images.unsplash.com/photo-1519834411415-51492bcd6027?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1624&q=80
-to open, true, true, bAz kardan, bAz mikon, bAz nemikon, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20open_12.png
-to watch, true, true, tamAshA kardan, tamAshA mikon, tamAshA nemikon, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20watch.png
-to listen, true, true, goosh kardan, goosh mikon, goosh nemikon, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20listen.png
-to clean, true, true, tamiz kardan, tamiz mikon, tamiz nemikon, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20clean_7.png
-to chop, true, true, khurd kardan, khurd mikon, khurd nemikon, , , "https://d18vdu4p71yql0.cloudfront.net/libraries/mulberry/chop%20,%20to.svg"
-to bring, true, false, bordan, mibar, nemibar, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20bring.png
-to take out, true, true, biroon bordan, biroon mibar, biroon nemibar, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20remove.png
-to close, true, false, bastan, miband, nemiband, , , https://d18vdu4p71yql0.cloudfront.net/libraries/tawasol/Close%20the%20door%20(M)_1.png
-to do, true, false, kardan, mikon, nemikon, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20make-%20to%20do_1.png
-to wash, true, false, shostan, mishoor, nemishoor, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20wash.png
+id, English, Transitive, Compound, Fanglish, SimplePresentRoot, NegativeSimplePresentRoot, Farsi, Pronunciation, Picture
+1, to eat, true, false, khordan, mikhor, nemikhor, , , https://www-assets.youneedabudget.com/wp-content/uploads/illo_blog_011719.jpg
+2, to read, true, false, khandan, mikhan, nemikhan, , , https://engfluent.com/wp-content/uploads/2019/01/read-english-book-table.png
+3, to write, true, false, neveshtan, minevis, neminevis, , , https://www.bobhooperhouse.org/wp-content/uploads/2018/01/how-to-write-an-obituary.jpg
+4, to put on, true, false, pushidan, mipush, nemipush, , , https://i.pinimg.com/474x/ca/6f/55/ca6f55b8e5a113df3dc6a628b7412d25--la-routine-quotidienne-task-list.jpg
+5, to be (present), true, false, hastan, hast, nist, , , https://i.ytimg.com/vi/rC6bmDuHsWE/maxresdefault.jpg
+6, to cook, true, false, pokhtan, mipaz, nemipaz, , , https://webstockreview.net/images/cooking-clipart-animated-3.gif
+7, to have, true, false, dAshtan, dar, nadar, , , https://i.ytimg.com/vi/X5DzAdGfu-c/hqdefault.jpg
+8, to see, true, false, didan, mibin, nemibin, , , https://jeffdegraff.com/wp-content/uploads/2013/09/learningtosee.jpg
+9, to want, true, false, khAstan, mikhah, nemikhah, , , https://clipartstation.com/wp-content/uploads/2018/10/to-want-clipart-7.jpg
+10, to buy, true, false, kharidan, mikhar, nemikhar, , , https://static.toiimg.com/photo/65119881.cms?imglength=197975
+11, to sleep, false, false, khAbidan, mikhab, nemikhab, , , https://steemitimages.com/p/o1AJ9qDyyJNSpZWhUgGYc3MngFqoAMgYmHwEDaiM8h6WWjChC?format=match&mode=fit&width=1280
+12, to go, either, false, raftan, mirav, nemirav, , , https://greatpeopleinside.com/wp-content/uploads/2018/04/why-employees-leave.png
+13, to come, either, false, Amadan, miAy, nemiAy, , , https://thumbs.dreamstime.com/b/cartoon-illustration-mother-son-boarding-airplane-30187479.jpg
+14, to wake up, false, true, bidar shodan, bidar mishav, bidar nemishav, , , https://www.elegantthemes.com/blog/wp-content/uploads/2018/11/how-to-wake-up-early.png
+15, to brush teeth, true, true, mesvAk zadan, mesvAk mizan, mesvAk nemizan, , , https://i.ytimg.com/vi/0QMimPh1-Ug/maxresdefault.jpg
+16, to shower, true, true, doosh greftan, doosh migir, doosh nemigir, , , https://images.unsplash.com/photo-1565144665800-d751dd2e3b07?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1263&q=80
+17, to rest, true, true, estrAhat kardan, estrAhat mikon, estrAhat nemikon, , , https://images.unsplash.com/photo-1519834411415-51492bcd6027?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1624&q=80
+18, to open, true, true, bAz kardan, bAz mikon, bAz nemikon, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20open_12.png
+19, to watch, true, true, tamAshA kardan, tamAshA mikon, tamAshA nemikon, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20watch.png
+20, to listen, true, true, goosh kardan, goosh mikon, goosh nemikon, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20listen.png
+21, to clean, true, true, tamiz kardan, tamiz mikon, tamiz nemikon, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20clean_7.png
+22, to chop, true, true, khurd kardan, khurd mikon, khurd nemikon, , , "https://d18vdu4p71yql0.cloudfront.net/libraries/mulberry/chop%20,%20to.svg"
+23, to bring, true, false, bordan, mibar, nemibar, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20bring.png
+24, to take out, true, true, biroon bordan, biroon mibar, biroon nemibar, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20remove.png
+25, to close, true, false, bastan, miband, nemiband, , , https://d18vdu4p71yql0.cloudfront.net/libraries/tawasol/Close%20the%20door%20(M)_1.png
+26, to do, true, false, kardan, mikon, nemikon, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20make-%20to%20do_1.png
+27, to wash, true, false, shostan, mishoor, nemishoor, , , https://d18vdu4p71yql0.cloudfront.net/libraries/arasaac/to%20wash.png
